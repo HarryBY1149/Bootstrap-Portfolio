@@ -68,3 +68,7 @@ p {
     background-color: #4aaaa5;
     border-color: #4aaaa5;
 }
+
+.footer {
+    border-top: 2px solid #4aaaa5;
+}
